@@ -1,0 +1,7 @@
+# Untracked files:
+*bin/
+*doc/
+*.project
+*.classpath
+*.settings
+*.html
